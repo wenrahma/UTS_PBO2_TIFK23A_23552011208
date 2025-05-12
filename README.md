@@ -34,5 +34,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/wenrahma/UTS_PBO2_TIFK23A_23552011208">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/3SlJIIfQYps">Youtube</a></li>
 </ul>
